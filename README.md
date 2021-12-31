@@ -2,8 +2,8 @@
 United Nations Member States and Countries Scraper in Python
 
 Pulls data from the following URLs:
-- Member List: 
-- Yearly Member Count:
+- Member List: https://www.un.org/en/about-us/member-states
+- Yearly Member Count: https://www.un.org/en/about-us/growth-in-un-membership
 
 Member State Data
 Member State Growth Data
