@@ -1,4 +1,4 @@
-# United Nations Member States Data
+# United Nations Member States Scraper
 United Nations Member States and Countries Scraper in Python
 
 Pulls data from the following URLs:
